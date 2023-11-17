@@ -50,7 +50,7 @@
 - Drop me an email at `nachikamod@gmail.com` for collaboration or inquiries.
 
 ## 😄 Fun Fact
-- I love blending the worlds of technology and creativity! In my free time, I enjoy exploring the art of digital photography, capturing the vibrant colors and diverse cultures of India. This hobby not only fuels my creative side but also gives me a fresh perspective on design and aesthetics in technology.
+- I'm an avid solo traveler! Exploring new places on my own allows me to immerse myself in diverse cultures and landscapes. This passion for travel not only quenches my thirst for adventure but also inspires my approach to problem-solving and innovation in technology, bringing in fresh perspectives from around the globe.
 
 ---
 
